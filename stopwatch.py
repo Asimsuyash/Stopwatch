@@ -7,9 +7,7 @@ running = False
 # time variables initially set to 0
 hours, minutes, seconds = 0, 0, 0
 
-# ***** NOTES ON GLOBAL *****
-# global will be used to modify variables outside functions
-# another option would be to use a class and subclass Frame
+
 
 # ***** FUNCTIONS *****
 # start, pause, and reset functions will be called when the buttons are clicked
